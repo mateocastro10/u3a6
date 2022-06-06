@@ -1,0 +1,46 @@
+{
+    "__class__":"Manejador",
+    "aparatos":[
+    {
+        "__class__": "Lavarropas",
+        "__atributos__": {
+        "marca":"sammsfas",
+        "modelo":"asfa-asd-12",
+        "color":"blanco",
+        "pais":"argentina",
+        "precio":"20000000",
+        "capacidadLavado":"5kg",
+        "velocidadCentrifugado":"600rpm",
+        "cantiProgramas":"100",
+        "tipoCarga":"superior"
+        }
+    },
+    {
+        "__class__": "Heladera",
+        "__atributos__": {
+        "marca":"sammsfas",
+        "modelo":"asfa-asd-12",
+        "color":"blanco",
+        "pais":"argentina",
+        "precio":"20000000",
+        "capacidadLitros":20,
+        "freezer":"False",
+        "ciclica":"False"
+        }
+    },
+    {
+        "__class__": "Televisor",
+        "__atributos__": {
+        "marca":"sammsfas",
+        "modelo":"asfa-asd-12",
+        "color":"blanco",
+        "pais":"argentina",
+        "precio":"20000000",
+        "tipoPantalla":"lcd",
+        "pulgadas":"1920x1080",
+        "tipoDefinicion":"hd",
+        "conexion":"True"
+        }
+    }
+    ]
+}
